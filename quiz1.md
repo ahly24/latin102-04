@@ -10,10 +10,8 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 
 
 Part 2: recognizing verbs
-For each of the following verbs,
-
-identify the tense, voice, mood, person, and number.
-if the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
+For each of the following verbs, identify the tense, voice, mood, person, and number.
+If the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
 
 1. petivisset - 3rd person singular pluperfect active subjunctive 
 -petivissent (plural)

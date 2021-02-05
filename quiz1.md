@@ -10,7 +10,7 @@ Part 1: recognizing nouns
 
 
 Part 2: recognizing verbs
-For each of the following verbs, identify the tense, voice, mood, person, and number.
+>For each of the following verbs, identify the tense, voice, mood, person, and number.
 If the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
 
 1. petivisset - 3rd person singular pluperfect active subjunctive 
@@ -29,7 +29,7 @@ If the form is finite (not an infinitive) and singular, convert to plural; if th
 
 
 Part 3: Latin composition
-Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
+>Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
 1. Centaurs are being killed by Hercules. (Use the present tense) - interficiuntur
 1. Centaurs were being killed by Hercules. (Use the imperfect tense) - interficiebantur

@@ -16,18 +16,18 @@ identify the tense, voice, mood, person, and number.
 if the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
 
 1. petivisset - 3rd person singular pluperfect active subjunctive 
-   -petivissent
+-petivissent
 1. necauit - 3rd person singular perfect active indicative
-  -necaverint
+-necaverint
 1. necari - present passive indicative infinitive
 1. rogaretur - 3rd person singular imperfect passive subjunctive
-   -rogarentur
+-rogarentur
 1. coepit - 3rd person singular perfect active indicative
-   -coeperunt
+-coeperunt
 1. interfecisset - 3rd person singular pluperfect active subjunctive
-   -interfecissent
+-interfecissent
 1. misit - 3rd person singular perfect active indicative
-   -miserunt
+-miserunt
 
 
 Part 3: Latin composition

@@ -1,17 +1,17 @@
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
-1. filiam
+1. filiam - feminine accusative singuar
 
-1. in coniugium
+1. in coniugium - neuter nominative/accusative singular
 
-1. animo
+1. animo - masculine dative/ablative singular
 
-1. uirgine
+1. uirgine - feminine ablative singular
 
-1. parentes
+1. parentes - masculine nominative/accusative plural
 
-1. ad uxorem
+1. ad uxorem - feminine accusative singular
 
 
 Part 2: recognizing verbs
@@ -20,21 +20,34 @@ For each of the following verbs,
 identify the tense, voice, mood, person, and number.
 if the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.
 
-petivisset
-necauit
-necari
-rogaretur
-coepit
-interfecisset
-misit
+1. petivisset - 3rd person singular pluperfect active subjunctive 
+   petivissent
+
+1. necauit - 3rd person singular perfect active indicative
+  necaverint
+
+1. necari - present passive indicative infinitive
+
+1. rogaretur - 3rd person singular imperfect passive subjunctive
+   rogarentur
+
+1. coepit - 3rd person singular perfect active indicative
+   coeperunt
+
+1. interfecisset - 3rd person singular pluperfect active subjunctive
+   interfecissent
+
+1. misit - 3rd person singular perfect active indicative
+   miserunt
+
 
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-Centaurs are being killed by Hercules. (Use the present tense)
-Centaurs were being killed by Hercules. (Use the imperfect tense)
-Centaurs were killed by Hercules. (Use the perfect tense)
-When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-Hercules led Deianira in marriage (i.e., he married her).
-Hercules repeatedly asked Eurytus for permission to marry Iole.
+1. Centaurs are being killed by Hercules. (Use the present tense)
+1. Centaurs were being killed by Hercules. (Use the imperfect tense)
+1. Centaurs were killed by Hercules. (Use the perfect tense)
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
+1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
+1. Hercules led Deianira in marriage (i.e., he married her).
+1. Hercules repeatedly asked Eurytus for permission to marry Iole.

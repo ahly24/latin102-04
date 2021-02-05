@@ -1,5 +1,5 @@
 Part 1: recognizing nouns
-Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
+>Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam - feminine accusative singuar
 1. in coniugium - neuter nominative/accusative singular

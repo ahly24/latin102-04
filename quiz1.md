@@ -31,11 +31,10 @@ If the form is finite (not an infinitive) and singular, convert to plural; if th
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-1. Centaurs are being killed by Hercules. (Use the present tense) 
-
-1. Centaurs were being killed by Hercules. (Use the imperfect tense)
-1. Centaurs were killed by Hercules. (Use the perfect tense)
-1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-1. Hercules led Deianira in marriage (i.e., he married her).
-1. Hercules repeatedly asked Eurytus for permission to marry Iole.
+1. Centaurs are being killed by Hercules. (Use the present tense) - interficiuntur
+1. Centaurs were being killed by Hercules. (Use the imperfect tense) - interficiebantur
+1. Centaurs were killed by Hercules. (Use the perfect tense) - interfecti sunt
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit
+1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
+1. Hercules led Deianira in marriage (i.e., he married her). - duxit
+1. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit

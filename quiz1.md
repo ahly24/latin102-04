@@ -1,17 +1,17 @@
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
-1.filiam
+1. filiam
 
-1.in coniugium
+1. in coniugium
 
-1.animo
+1. animo
 
-1.uirgine
+1. uirgine
 
-1.parentes
+1. parentes
 
-1.ad uxorem
+1. ad uxorem
 
 
 Part 2: recognizing verbs

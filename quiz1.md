@@ -1,12 +1,14 @@
+**Needs revisions**
+
 Part 1: recognizing nouns
 >Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam - feminine accusative singuar
-1. in coniugium - neuter nominative/accusative singular
+1. in coniugium - neuter nominative/accusative singular ❌ *Translate prepositional phrases*
 1. animo - masculine dative/ablative singular
 1. uirgine - feminine ablative singular
 1. parentes - masculine nominative/accusative plural
-1. ad uxorem - feminine accusative singular
+1. ad uxorem - feminine accusative singular ❌ *Translate prepositional phrases*
 
 
 Part 2: recognizing verbs
@@ -16,8 +18,8 @@ If the form is finite (not an infinitive) and singular, convert to plural; if th
 1. petivisset - 3rd person singular pluperfect active subjunctive 
 -petivissent (plural)
 1. necauit - 3rd person singular perfect active indicative
--necaverint (plural)
-1. necari - present passive indicative infinitive
+-necaverint (plural) ❌
+1. necari - present passive indicative infinitive ❌
 1. rogaretur - 3rd person singular imperfect passive subjunctive
 -rogarentur (plural)
 1. coepit - 3rd person singular perfect active indicative
@@ -34,7 +36,7 @@ Part 3: Latin composition
 1. Centaurs are being killed by Hercules. (Use the present tense) - interficiuntur
 1. Centaurs were being killed by Hercules. (Use the imperfect tense) - interficiebantur
 1. Centaurs were killed by Hercules. (Use the perfect tense) - interfecti sunt
-1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit ❌
 1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 1. Hercules led Deianira in marriage (i.e., he married her). - duxit
-1. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit
+1. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit ❌

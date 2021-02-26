@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Composition 1: Wives of Hercules
 
 ## Background Information
@@ -28,4 +30,4 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 9. quia - because
 
 ## Composition
-Hercules cum Oechaliae venit, petiverit Iolen maritavisse. Cum eam pater Eurytus nolebat, Hercules Oechaliam cepit. Hercules dixit interficeret eam parentes. Iole passus est eam parentes interfecti sunt. Quia Hercules omnes interfecerat, Iolen Deianirae misit.
+Hercules cum Oechaliae venit,❌ petiverit❌ Iolen maritavisse❌. Cum eam❌ pater Eurytus nolebat❌, Hercules Oechaliam cepit. Hercules dixit interficeret❌ eam parentes. Iole passus❌ est eam parentes interfecti❌ sunt. Quia Hercules omnes interfecerat❌, Iolen Deianirae❌ misit.

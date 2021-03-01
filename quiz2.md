@@ -4,6 +4,7 @@
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
 video, videre, vidi, visus: to see
+
 facio, facere, feci, fectus: to make
 
 1. third plural present indicative active
@@ -53,6 +54,7 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio but not amo, habeo, capio or duco
 
 moneo, monēre, monui, monitus: to warn
+
 peto, petĕre, petivi or petii, petitus: to attack
 
 1. third plural present indicative passive

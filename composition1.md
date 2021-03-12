@@ -31,3 +31,6 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 ## Composition
 Hercules cum Oechaliae venit,❌ petiverit❌ Iolen maritavisse❌. Cum eam❌ pater Eurytus nolebat❌, Hercules Oechaliam cepit. Hercules dixit interficeret❌ eam parentes. Iole passus❌ est eam parentes interfecti❌ sunt. Quia Hercules omnes interfecerat❌, Iolen Deianirae❌ misit.
+
+Hercules cum Oechaliam **veniret,** **is in conjugium** Iolen **petivit.** Cum **eius** pater Eurytus **nollet,** Hercules Oechaliam cepit. Hercules dixit **interfecturum esse** eius parentes. Iole **patiebatur** est eam parentes **interfectos esse.** Quia Hercules omnes **interficeret,** Iolen **ad Deianiram** misit.
+

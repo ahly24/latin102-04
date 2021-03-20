@@ -48,7 +48,7 @@ et
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 - flumen, neuter, singular. Cui is dative and acts as an indirect object in the relative clause, this case is due to the indirect object. 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
-- present active infinitive. I placed it in the clause I chose because the action was unaccomplished. 
+- present active infinitive. I placed it in the clause I chose because the action was unable to be done.
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense, voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 - feminine, accusative, singular, perfect, passive
 4. Identify the form of sagittis. Why does Hyginus use this case?
@@ -56,7 +56,7 @@ et
 5. Identify the form of moriens.
 - neuter, nominative, singular, present, active
 6. Identify felle. Why does Hyginus use this case?
-- neuter, ablative, singular. Hyginus uses this case because it explains the prepositional phrase of the arrows were dyed with poison. 
+- neuter, ablative, singular. Hyginus uses this case because it explains the prepositional phrase of the arrows dyed with poison. 
 7. Identify the form of tinctas.
 - feminine, accusative, plural, perfect, passive
 8. Identify the form of exceptum.

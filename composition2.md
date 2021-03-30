@@ -5,7 +5,7 @@
 - relative clauses
 - verbal expressions with participles
 - expressing purpose using ad plus the gerundive
-- 
+
 ## Background
 You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
 
@@ -29,3 +29,4 @@ statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
 ## Composition
+Cum Deianira, filia Onei et uxor Herculis, pulchram iuvenem puellam Iolen adductam esse vidit, coepit machinari consilium ut non privare mariti. Deianira famuli misit tulisse Herculi vestis sanguis centauri Nessi tinxit, quod cogitabat amor partis. Hercules in vestem posuit et statim ipsum in flammarentur. Hercules servum iecit, quem Deianira missa est tulisse vestis retrorsum, in mare. Id dixisse Hercules immortaliti resurrexit, sed Deianira se interfecit propter hanc factum.

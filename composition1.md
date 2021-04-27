@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # Composition 1: Wives of Hercules
 

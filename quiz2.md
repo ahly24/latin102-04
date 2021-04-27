@@ -1,6 +1,4 @@
-**Needs revisions**
-**Think about organizing your submissions so that they will be as easy as possible for you to review and study from (and for me to comment on!)**
-
+**Full credit**
 
 # Quiz 2
 

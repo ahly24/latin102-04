@@ -1,3 +1,6 @@
+**Needs some revisions**
+**Very nice work!**
+
 # Composition 2: The Death of Hercules
 
 ## Review
@@ -29,4 +32,10 @@ statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
 ## Composition
-Cum Deianira, filia Onei et uxor Herculis, pulchram iuvenem puellam Iolen adductam esse vidit, coepit machinari consilium ut non privare mariti. Deianira famuli misit tulisse Herculi vestis sanguis centauri Nessi tinxit, quod cogitabat amor partis. Hercules in vestem posuit et statim ipsum in flammarentur. Hercules servum iecit, quem Deianira missa est tulisse vestis retrorsum, in mare. Id dixisse Hercules immortaliti resurrexit, sed Deianira se interfecit propter hanc factum.
+Cum Deianira, filia Onei et uxor Herculis, pulchram iuvenem puellam Iolen adductam esse vidit, coepit machinari consilium ut non privare❌ **Need a subjunctive verb.** mariti. 
+
+Deianira famuli❌ misit tulisse❌ **We want to express purpose here.** Herculi vestis sanguis centauri Nessi tinxit, quod cogitabat amor❌ partis. 
+
+Hercules in vestem posuit❌**Use glossed item *induo*.** et statim ipsum in flammarentur. Hercules servum iecit, quem Deianira missa est tulisse❌**Here, too, we need purpose** vestis retrorsum, in mare. 
+
+Id dixisse❌ **Need an indicative verb.** Hercules immortaliti❌ resurrexit, sed Deianira se interfecit propter hanc❌ factum.

@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit****
 
 ## Translation 1: Wives of Hercules
 Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. Cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. Quia pater eius centaurum timebat, pollicitus est se daturum.

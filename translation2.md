@@ -96,14 +96,11 @@ et
 
 ## C. Translation
 Deianira, the wife of Hercules, was unable to cross the large river, which was named Evenus, 
-
-and the centaur Nessus, whose sons were Ixion and Nubes, asked to help❌. *and asked the centaur Nessus, who was the son of Ixion and Nubes, for help.*
+and the centaur Nessus, whose sons were Ixion and Nubes, asked to help❌. (*and asked the centaur Nessus, who was the son of Ixion and Nubes, for help*).
 
 Here he lifted Deianira himself in the river and wished to violate her.
 
-When Hercules intervened and when Deianira begged his faith🤔 *begged with tears for help,* he pierced Nessus with arrows.
+When Hercules intervened and when Deianira begged his faith🤔 (*begged with tears for help*), he pierced Nessus with arrows.
 
 As he was dying, 
-he knew the arrows were dyed with the poision of the Lernaean Hydra so that they hold great power, ❌ *when he knew that Hydra Lernaean's arrows were soaked in the potent poison,*
-
-he gave his blood to Deianira and she accepted and he said there exists a love potion. ❌ *he gave Deiania his blood and told her it was a love potion.*
+he knew the arrows were dyed with the poision of the Lernaean Hydra so that they hold great power, ❌ (*when he knew that Hydra Lernaean's arrows were soaked in the potent poison*), he gave his blood to Deianira and she accepted and he said there exists a love potion. ❌ (*he gave Deianira his blood and told her it was a love potion*).

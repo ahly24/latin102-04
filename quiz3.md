@@ -101,7 +101,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 - Erymanthius, Erymanthia, Eurymanthium
 4. aves Stymphalides
 - Stymphalis, Stymphalidis, Stymphalide ❌ **This one is tricky!**
-- Stymphalis, Stymphalidis
+- *Stymphalis, Stymphalidis*
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 - Amazonus, Amazona, Amazonum
 
@@ -120,17 +120,17 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
 - cum magno afflatu ❌ **Good adj/noun agreement, but don't need a preposition to express means/instrument in Latin,**
-- magno afflatu
+- *magno afflatu*
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-- cum maiori afflatu
+- maiori afflatu
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-- cum maximo afflatu
+- maximo afflatu
 4. The victims died *in great torment.*
-- in magno cruciatu
+- magno cruciatu
 5. The victims died *in greater torment.*
-- in maiori cruciatu
+- maiori cruciatu
 6. The victims died *in the greatest torment.*
-- in maximo cruciatu
+- maximo cruciatu
 7. Hercules cleaned *a great part of the stables.*
 - magnam partem
 8. Hercules cleaned *a greater part of the stables.*

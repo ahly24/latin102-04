@@ -32,10 +32,10 @@ statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
 ## Composition
-Cum Deianira, filia Onei et uxor Herculis, pulchram iuvenem puellam Iolen adductam esse vidit, coepit machinari consilium ut non privare❌ **Need a subjunctive verb.** mariti. 
+Cum Deianira, filia Onei et uxor Herculis, pulchram iuvenem puellam Iolen adductam esse vidit, coepit machinari consilium ut non privare❌ **Need a subjunctive verb.** (*privaretur*) mariti. 
 
-Deianira famuli❌ misit tulisse❌ **We want to express purpose here.** Herculi vestis sanguis centauri Nessi tinxit, quod cogitabat amor❌ partis. 
+Deianira famuli❌ misit tulisse❌ **We want to express purpose here.** (*Famulam misit ad vestem*) sanguine centauri Nessus tinctam, quod cogitabat amor❌ (*quem putabat philtrum esse*). 
 
-Hercules in vestem posuit❌**Use glossed item *induo*.** et statim ipsum in flammarentur. Hercules servum iecit, quem Deianira missa est tulisse❌**Here, too, we need purpose** vestis retrorsum, in mare. 
+Hercules in vestem posuit❌**Use glossed item *induo*.** (*vestimentum induerit*) et statim ipsum in flammarentur. Hercules servum iecit, quem Deianira missa est tulisse❌**Here, too, we need purpose** (*miserat ut*) vestem revocaret, in mare. 
 
-Id dixisse❌ **Need an indicative verb.** Hercules immortaliti❌ resurrexit, sed Deianira se interfecit propter hanc❌ factum.
+Id dixisse❌ **Need an indicative verb.** (*Dicitur*) Hercules immortaliti❌ (*Hurculem immortalitatem*) resurrexit, sed Deianira se interfecit propter hanc❌ (*se occidit propter*) factum.

@@ -56,6 +56,7 @@ For the following verbs in various forms, list the four principal parts you woul
 - morior, mori, -, mortuus suum
 4. exinteravit
 - exintereo, exintaras, exinteravi, exinteritus❌
+- *exintero, exinterare, exinteravi, exinteratus*
 5. effugiebat
 - effugio, effugere, effugi, effugitus
 6. adduxit
@@ -100,6 +101,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 - Erymanthius, Erymanthia, Eurymanthium
 4. aves Stymphalides
 - Stymphalis, Stymphalidis, Stymphalide ❌ **This one is tricky!**
+- Stymphalis, Stymphalidis
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 - Amazonus, Amazona, Amazonum
 
@@ -118,6 +120,7 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
 - cum magno afflatu ❌ **Good adj/noun agreement, but don't need a preposition to express means/instrument in Latin,**
+- magno afflatu
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
 - cum maiori afflatu
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.

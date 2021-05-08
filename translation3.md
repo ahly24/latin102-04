@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Translation 3: Three labors of Hercules
 
 ## Glossary and notes
@@ -22,7 +24,8 @@ Hyginus, chapter 30, sections 7-9.
 
 9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-## A. Grammatical analysis
+## A. Grammatical analysis ❌ **You've correctly isolated verbal units, but you're making every subsequent expression subordinate to the previous one.**
+
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 Augeae regis stercus bobile uno die *purgavit*,
@@ -42,7 +45,7 @@ Diomedem Thraciae regem et equos quattuor eius,
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 Iove is the ablative case. This phrase is an ablative absolute construction because the noun and pronoun agree in participle and defines a circumstance.
 3. What case is stercus, and why is it in that case?
-Stercus is in the nominative case because it is the subject of the predicate subject relation, stercus abluit.
+Stercus is in the nominative case because it is the subject of the predicate subject relation, stercus abluit.❌ **
 5. Identify the form of the adjective maiorem (gender, case, number, degree).
 Maiorem is masculine/feminine accusative singular comparative.
 6. Explain the construction of the verbal unit flumine admisso.
@@ -55,5 +58,8 @@ The gerund has to be understood because the verb "nomina" is being used as a nou
 ## C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly in 3-4 sentences. Italicize Latin words when citing them.
 
-1. *Regis stercus* acts as a predicate subject relation. This relation allows for a sentence to be complete because every sentence needs a subject and predicate. *Regis* informs readers that the sentence will be about a king and *stercus* describes the subject's filth.
-2. *Creta insula* is an example of a hyperbaton because it is a noun adjective relation. The relation enhances the sentence because it switches the proper order of noun-adjective "for poetic effect" (*Wikipedia*). *Creta* is the adjective and *insula* is the noun so it would generally be *insula creta.* I briefly learned about this word in philosophy because Plato had described it to be an inversion of natural word order.
+1. *Regis stercus* acts as a predicate subject relation. This relation allows for a sentence to be complete because every sentence needs a subject and predicate. *Regis* informs readers that the sentence will be about a king and *stercus* describes the subject's filth. ❌ **The verb *purgo* is a little unusual: it can take *two* direct objects!**
+2. *Creta insula* is an example of a hyperbaton because it is a noun adjective relation. The relation enhances the sentence because it switches the proper order of noun-adjective "for poetic effect" (*Wikipedia*). *Creta* is the adjective and *insula* is the noun so it would generally be *insula creta.* I briefly learned about this word in philosophy because Plato had described it to be an inversion of natural word order❗️ **Nice!**
+
+
+❌ **Please include a translation of the passage.**

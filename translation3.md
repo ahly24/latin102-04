@@ -1,5 +1,3 @@
-**Needs revisions**
-
 # Translation 3: Three labors of Hercules
 
 ## Glossary and notes
@@ -24,28 +22,37 @@ Hyginus, chapter 30, sections 7-9.
 
 9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-## A. Grammatical analysis ❌ **You've correctly isolated verbal units, but you're making every subsequent expression subordinate to the previous one.**
+## A. Grammatical analysis 
 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 Augeae regis stercus bobile uno die *purgavit*,
-> maiorem partem Iove adiutore;
->> flumine admisso totum stercus *abluit*.
+
+maiorem partem 
+> Iove adiutore;
+
+> flumine admisso
+
+totum stercus *abluit*.
 
 Taurum
 > cum quo Pasiphae *concubuit*
->> ex Creta insula Mycenis vivum *adduxit*.
+
+ex Creta insula Mycenis vivum *adduxit*.
 
 Diomedem Thraciae regem et equos quattuor eius,
 > qui carne humana *vescebantur*,
->> cum Abdero famulo *interfecit*;
->>> equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+cum Abdero famulo *interfecit*;
+
+equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 ## B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase?
 Iove is the ablative case. This phrase is an ablative absolute construction because the noun and pronoun agree in participle and defines a circumstance.
 3. What case is stercus, and why is it in that case?
-Stercus is in the nominative case because it is the subject of the predicate subject relation, stercus abluit.❌ **
+Stercus is in the nominative case because it is the subject of the predicate subject relation, stercus abluit.❌ 
+*Stercus is in the accusative case because it has two direct objects.**
 5. Identify the form of the adjective maiorem (gender, case, number, degree).
 Maiorem is masculine/feminine accusative singular comparative.
 6. Explain the construction of the verbal unit flumine admisso.
@@ -58,8 +65,15 @@ The gerund has to be understood because the verb "nomina" is being used as a nou
 ## C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly in 3-4 sentences. Italicize Latin words when citing them.
 
-1. *Regis stercus* acts as a predicate subject relation. This relation allows for a sentence to be complete because every sentence needs a subject and predicate. *Regis* informs readers that the sentence will be about a king and *stercus* describes the subject's filth. ❌ **The verb *purgo* is a little unusual: it can take *two* direct objects!**
+1. *Maiorem partem* is used by Hyginus in order to enhance the idea that Hercules had to clean a big amount of the manure and stall. Hercules had done a "greater part" of it with help. Hyginus had also removed Hercules as the subject and added an object along with including Jupiter, who had helped Hercules.
 2. *Creta insula* is an example of a hyperbaton because it is a noun adjective relation. The relation enhances the sentence because it switches the proper order of noun-adjective "for poetic effect" (*Wikipedia*). *Creta* is the adjective and *insula* is the noun so it would generally be *insula creta.* I briefly learned about this word in philosophy because Plato had described it to be an inversion of natural word order❗️ **Nice!**
 
 
 ❌ **Please include a translation of the passage.**
+
+## D. Translation
+In one day, he cleaned the manure and stall of King Augeas, the greater part with Jupiter's help; he cleaned all of the manure by letting the river in.
+
+He brought the bull, with whom Pasiphase laid with, from the Crete island Mycenae alive. 
+
+He killed King Diomedes of Thrace and his four horses, who feed on human flesh, with his slave Abdero; also, the horses names of the horses were Podargus, Lampon, Xanthus, and Dinus.
